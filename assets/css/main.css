@@ -256,7 +256,11 @@ a:after {
 }
 
 #f i:hover {
-	color: #ff7878;
+	color: white;
+}
+
+#f p {
+    color: white;
 }
 
 /****** SECTIONS *****/
