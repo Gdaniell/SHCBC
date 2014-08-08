@@ -50,6 +50,16 @@ p {
 figure{
     padding-top: 50px;
 }
+
+img{
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
+img.logo{
+    max-width: 20vmax;
+    vertical-align: middle;
+}
 /* Links */
 a {
     color: #f85c37;
@@ -90,7 +100,7 @@ a:after {
 
 .navbar {
 	font-weight: 800;
-	font-size: 14px;
+	font-size: 1.2vmax;
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
@@ -107,7 +117,7 @@ a:after {
 .navbar-inverse .navbar-brand {
 	color: #999999;
 	font-weight: bolder;
-	font-size: 22px;
+	font-size: 2.1vw;
 	letter-spacing: 1px;
 }
 
@@ -146,7 +156,7 @@ a:after {
 	text-align:center;
 	background-attachment: relative;
 	background-position: right;
-	min-height: 500px;
+	min-height: 100px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -161,9 +171,11 @@ a:after {
 } 
 
 #headerwrap h1 {
-	margin-top: 100px;
+	margin-top: 65px;
+    margin-bottom: 65px;
+    vertical-align: middle;
 	color: white;
-	font-size: 70px;
+	font-size: 5vw;
 	font-weight: 300;
 	letter-spacing: 3px;
 }
@@ -256,7 +268,11 @@ a:after {
 }
 
 #f i:hover {
-	color: #ff7878;
+	color: white;
+}
+
+#f p {
+    color: #888787;
 }
 
 /****** SECTIONS *****/
