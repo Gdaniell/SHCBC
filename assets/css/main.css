@@ -57,7 +57,7 @@ img{
     width: auto\9;
 }
 img.logo{
-    width: 10em;
+    width: 17vw;
     vertical-align: middle;
     display: block;
   height: auto;
@@ -114,10 +114,10 @@ a:after {
 
 .navbar {
 	font-weight: 800;
-	font-size: 1.2vmax;
+	font-size: 1vw;
 	padding-top: 15px;
 	padding-bottom: 15px;
-    font-size: .9em;
+   
 }
 
 .navbar-inverse {
@@ -132,9 +132,9 @@ a:after {
 .navbar-inverse .navbar-brand {
 	color: #999999;
 	font-weight: bolder;
-	font-size: 2.1vw;
+	font-size: 1.9vw;
 	letter-spacing: 1px;
-    font-size: 22px;
+    
 }
 
 .navbar-inverse .navbar-brand i {
@@ -187,8 +187,8 @@ a:after {
 } 
 
 #headerwrap h1 {
-	margin-top: 65px;
-    margin-bottom: 65px;
+	margin-top: 10vw;
+    margin-bottom: 8vw;
     vertical-align: middle;
 	color: white;
 	font-size: 5vw;
