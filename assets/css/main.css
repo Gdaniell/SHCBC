@@ -57,7 +57,7 @@ img{
     width: auto\9;
 }
 img.logo{
-    max-width: 20vmax;
+    width: 10em;
     vertical-align: middle;
     display: block;
   height: auto;
@@ -116,7 +116,7 @@ a:after {
 	font-size: 1.2vmax;
 	padding-top: 15px;
 	padding-bottom: 15px;
-    font-size: 12px;
+    font-size: .9em;
 }
 
 .navbar-inverse {
