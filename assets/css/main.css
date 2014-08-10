@@ -114,7 +114,7 @@ a:after {
 
 .navbar {
 	font-weight: 800;
-	font-size: 1vw;
+	font-size: 16px;
 	padding-top: 15px;
 	padding-bottom: 15px;
    
@@ -132,7 +132,7 @@ a:after {
 .navbar-inverse .navbar-brand {
 	color: #999999;
 	font-weight: bolder;
-	font-size: 1.9vw;
+	font-size: 20px;
 	letter-spacing: 1px;
     
 }
