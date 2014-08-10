@@ -61,6 +61,7 @@ img.logo{
     vertical-align: middle;
     display: block;
   height: auto;
+  padding-top: 20px;
 }
 .img-circle{
     max-width: 110px;
